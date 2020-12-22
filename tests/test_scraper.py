@@ -1,4 +1,4 @@
-from web_scraper.web_scraper import get_citations_needed_count
+from web_scraper.web_scraper import get_citations_needed_count ,get_citations_needed_report
 
 def test_citation_count(): 
     epected = 5 
